@@ -39,7 +39,7 @@ public class CamperLetter
     {
         Camper a = new Camper ("Allen", "Alicia", Camper.GENDER_FEMALE);
         Camper b = new Camper ("Bell", "Bryan", Camper.GENDER_MALE);
-        // Camper c = new Camper ("Carter", "Cecilia", Camper.GENDER_CAMPER_PROVIDED, "they", "them", "theirs");
+        // Camper c = new Camper ("Carter", "Cecilia", Camper.GENDER_CAMPER_PROVIDED, "Non-Binary", "they", "them", "theirs");
         
         CamperLetter letterA = new CamperLetter(a);
         CamperLetter letterB = new CamperLetter(b);
